@@ -1,0 +1,6 @@
+class Detail{
+  String x,z;
+  Detail(string a, string b);
+  x=a;
+  z=b;
+}
